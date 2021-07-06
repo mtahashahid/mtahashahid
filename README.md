@@ -40,6 +40,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-taha-857a42180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/muhammad-taha-857a42180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-blue?style=flat-square&logo=linkedin"></a>
 <a href="taha_shahid@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-taha_shahid@outlook.com-blue?style=flat-square&logo=outlook"></a>
 </p>
