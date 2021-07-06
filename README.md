@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Taha.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -32,9 +30,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/mtahashahid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtahashahid&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahashahid&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -43,5 +41,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-taha-857a42180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="taha_shahid@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=outlook"></a>
+<a href="taha_shahid@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-taha_shahid@outlook.com-blue?style=flat-square&logo=outlook"></a>
 </p>
