@@ -8,13 +8,11 @@
 - 🌱 &nbsp; Learning more about new technologies.
 - ✍️ &nbsp; Pursuing Web development as hobbie.
 
+<img src="https://github.com/mtahashahid/Hi.gif" width="29px">
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  
+- 💻
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
- 
-
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -30,10 +28,11 @@
 
 <br/>
 
-<a href="https://github.com/mtahashahid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtahashahid&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahashahid&theme=buefy&layout=compact" />
-</a>
+### 🏆 Github Stats:
+
+<img alt="mtaha's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=mtahashahid&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+
+<img alt="mtaha's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahashahid&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 <br/>
 
