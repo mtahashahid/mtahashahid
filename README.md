@@ -36,9 +36,16 @@
 
 <br/>
 
-<h2>Connect with Me <img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" width="65px"></h2>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-taha-857a42180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-blue?style=flat-square&logo=linkedin"></a>
-<a href="taha_shahid@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-taha_shahid@outlook.com-blue?style=flat-square&logo=outlook"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/muhammad-taha-857a42180/" target="blank">
+  <img align="center" alt="Taha's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
 </p>
+
