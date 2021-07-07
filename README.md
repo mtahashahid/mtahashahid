@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and stuff.
+- 🤔 &nbsp; Exploring new technologies and learning everyday.
 - 🎓 &nbsp; Studying Computer Science at IQRA University.
 - 💼 &nbsp; Working as a freelance web developer.
 - ✍️ &nbsp; Pursuing Web development as hobbie.
