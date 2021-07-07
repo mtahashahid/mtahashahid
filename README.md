@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Taha.</h2>
+<h2>Hey there! I'm Taha.<img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Hi.gif" width="25px"></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2>Connect with Me <img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" width="65px"></h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-taha-857a42180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-blue?style=flat-square&logo=linkedin"></a>
