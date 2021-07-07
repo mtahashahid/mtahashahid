@@ -30,16 +30,12 @@
 
 ### 🏆 Github Stats:
 
-<img alt="mtaha's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=mtahashahid&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<img  align="center" alt="mtaha's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=mtahashahid&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
 <img alt="mtaha's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahashahid&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 <br/>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
-
+ 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -48,4 +44,3 @@
   <img align="center" alt="Taha's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
 </p>
-
