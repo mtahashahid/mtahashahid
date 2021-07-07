@@ -29,7 +29,8 @@
 <br/>
 
 ### 🏆 Github Stats:
-<div align="center">
+
+<div>
 <img alt="mtaha's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=mtahashahid&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
 <img alt="mtaha's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahashahid&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
