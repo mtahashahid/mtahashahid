@@ -1,6 +1,6 @@
-<h2>Hey there! I'm Taha.<img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Hi.gif" width="25px"></h2>
+<h1>Hey there, I'm Taha.<img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Hi.gif" width="25px"></h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h1> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning everyday.
 - 🎓 &nbsp; Studying Computer Science at IQRA University.
