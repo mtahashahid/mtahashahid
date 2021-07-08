@@ -24,13 +24,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 <br/>
-
-<h3>🏆 Github Stats </h3>
-
-<div>
-<img alt="mtaha's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahashahid&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
-</div>
-<br/>
  
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
