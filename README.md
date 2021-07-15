@@ -9,7 +9,7 @@
 - 🔭 &nbsp; I’m currently working on Improving JS Skills.
 - 🌱 &nbsp; I’m currently learning ... React Hooks.
 
-<h2> 🛠 &nbsp;Tech Stack & Skills </h2>
+<h2>🛠 &nbsp;Tech Stack & Skills </h2>
 
 - 💻
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
