@@ -25,7 +25,7 @@
 <br/>
  
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me.<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/muhammad-taha-857a42180/" target="blank">
