@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science at IQRA University.
 - 💼 &nbsp; Working as a freelance web developer.
 - ✍️ &nbsp; I’m currently working on Improving JS Skills.
-- 🌱 &nbsp; I’m currently learning ... React Hooks.
+- 🌱 &nbsp; I’m currently learning... React Hooks.
 
 <h2>🛠Tech Stack & Skills</h2>
 
