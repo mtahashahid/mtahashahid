@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-- 🤔 &nbsp; Exploring new technologies and learning everyday.
+- 🤔 &nbsp; Exploring new technologies learning everyday.
 - 🎓 &nbsp; Studying Computer Science at IQRA University.
 - 💼 &nbsp; Working as a freelance web developer.
 - ✍️ &nbsp; I’m currently working on improving JS skills.
@@ -25,7 +25,7 @@
 <br/>
  
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me.<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/muhammad-taha-857a42180/" target="blank">
