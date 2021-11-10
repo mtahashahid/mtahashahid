@@ -24,7 +24,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 <br/>
- 
+<br/>
 <div align="center">
   <h3 align="center">Connect with me.<img align="center" src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
