@@ -1,4 +1,5 @@
-<h1>Hey there, I'm Taha.<img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Hi.gif" width="25px"></h1>
+<h1>Hey there, I'm Taha.</h1>
+<!--   <img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Hi.gif" width="25px"> -->
 
 <h2>About Me</h2>
 
@@ -6,7 +7,6 @@
 - 🎓 &nbsp; Studying Computer Science at IQRA University.
 - 💼 &nbsp; Working as a freelance web developer.
 - ✍️ &nbsp; I’m currently working on improving JS skills.
-- 🌱 &nbsp; I’m currently learning React.
 
 <h2>🛠Tech Stack & Skills</h2>
 
