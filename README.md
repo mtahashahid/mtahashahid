@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 
 - 🤔 &nbsp; Exploring new technologies learning everyday.
-- 🎓 &nbsp; Computer Science Grduate.
+- 🎓 &nbsp; Computer Science Graduate.
 - 💼 &nbsp; Working as a Trainee developer and freelance web developer.
 - ✍️ &nbsp; I’m currently working on improving JS skills.
 
