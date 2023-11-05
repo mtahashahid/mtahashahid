@@ -4,8 +4,8 @@
 <h2>About Me</h2>
 
 - 🤔 &nbsp; Exploring new technologies learning everyday.
-- 🎓 &nbsp; Studying Computer Science at IQRA University.
-- 💼 &nbsp; Working as a freelance web developer.
+- 🎓 &nbsp; Computer Science Grduate.
+- 💼 &nbsp; Working as a Trainee developer and freelance web developer.
 - ✍️ &nbsp; I’m currently working on improving JS skills.
 
 <h2>🛠Tech Stack & Skills</h2>
