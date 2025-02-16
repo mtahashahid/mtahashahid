@@ -11,7 +11,7 @@ Passionate about building scalable, efficient, and user-friendly web application
 ### 💡 What I Do:  
 ✅ Develop and optimize web applications using **React, Next.js**  
 ✅ Develop backend solutions with **Node.js, Express.js, RESTful APIs, and Firebase**.   
-✅ Design and manage **databases (MongoDB, Firebase, SQL)** 
+✅ Design and manage **databases (MongoDB, Firebase, SQL)**
 ✅ Integrate **APIs and services** for enhanced functionality  
 
 ### 🚀 What Drives Me:  
