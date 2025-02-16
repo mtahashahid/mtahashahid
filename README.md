@@ -1,6 +1,6 @@
 # Hey there, I'm Taha.  
 
-🚀 **Software Engineer | Web Developer | MERN Stack Specialist**  
+🚀 **Software Engineer | Web Developer | MERN Stack Developer **  
 
 <!--   <img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Hi.gif" width="25px"> -->  
 
