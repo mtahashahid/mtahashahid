@@ -1,12 +1,23 @@
 <h1>Hey there, I'm Taha.</h1>
+
+🚀 Software Engineer | Web Developer | MERN Stack Specialist
 <!--   <img src="https://github.com/mtahashahid/mtahashahid/blob/main/Assets/Hi.gif" width="25px"> -->
 
 <h2>About Me</h2>
 
-- 🤔 &nbsp; Exploring new technologies learning everyday.
-- 🎓 &nbsp; Computer Science Graduate.
-- 💼 &nbsp; Working as a Trainee developer and freelance web developer.
-- ✍️ &nbsp; I’m currently working on improving JS skills.
+Passionate about building scalable, efficient, and user-friendly web applications, I specialize in JavaScript, MERN stack, and cloud technologies. With hands-on experience in full-stack development, I bring ideas to life through clean code, modern frameworks, and best practices.
+
+💡 What I Do:
+✅ Develop and optimize web applications using React, Next.js, and Node.js
+✅ Design and manage databases (MongoDB, Firebase, SQL)
+✅ Integrate APIs and services for enhanced functionality
+✅ Optimize performance and ensure smooth CI/CD pipelines
+
+🚀 What Drives Me:
+I thrive on solving complex problems, learning new technologies, and contributing to impactful projects. Whether it's enhancing UI/UX, improving backend efficiency, or deploying scalable web solutions, I’m always eager to create something meaningful.
+
+📩 Let’s Connect!
+Open to networking, collaboration, and opportunities to build innovative tech solutions. Feel free to reach out!
 
 <h2>🛠Tech Stack & Skills</h2>
 
